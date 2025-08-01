@@ -3,12 +3,12 @@
 **SmartAcademia** is a desktop-based **Student Management System** developed using **JavaFX**, **MySQL**, and **JDBC**. The system provides an intuitive interface to manage students, teachers, academic programs, intakes, and registrations efficiently. It supports user registration, login authentication, and separate dashboards for different academic modules.
 
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **JavaFX** – for building the graphical user interface (GUI)  
 - **JDBC** – to connect the application with the database  
 - **MySQL** – for data storage and management  
-- **Scene Builder** – for designing JavaFX UI (if used) 
+- **Scene Builder** – for designing JavaFX UI
 
 ## Features
 
