@@ -37,16 +37,22 @@
 ### 📝 Signup Page
 ![Signup](./images/signup.png)
 
-### 🏠 Dashboard
+### Dashboard
 ![Dashboard](./images/dashboard.png)
 
-### 🎓 Student Management
+### Student Management
 ![Student](./images/student.png)
 
-### 📘 Program Management
+### Program Management
 ![Program](./images/program.png)
 
-### 📥 Registration Page
+### Teacher Management
+![Student](./images/teachers.png)
+
+### Intake Management
+![Program](./images/intake.png)
+
+### Registration Page
 ![Registration](https://github.com/Shashikala-manohari/SmartAcademia/blob/c4f2fcd8f8b521f82829331638986c164855f929/images/registration.png)
 
 
