@@ -29,5 +29,25 @@
 - **Registration Module**  
   - Register students to selected programs and track their enrollment
 
+## Screenshots
+
+### Login Page
+![Login](https://github.com/Shashikala-manohari/SmartAcademia/blob/cf2f365db2edf3a8c2ce8cbb3434ac71c15b5c21/images/login.png)
+
+### 📝 Signup Page
+![Signup](./images/signup.png)
+
+### 🏠 Dashboard
+![Dashboard](./images/dashboard.png)
+
+### 🎓 Student Management
+![Student](./images/student.png)
+
+### 📘 Program Management
+![Program](./images/program.png)
+
+### 📥 Registration Page
+![Registration](./images/registration.png)
+
 
 
