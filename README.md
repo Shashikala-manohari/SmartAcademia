@@ -47,7 +47,7 @@
 ![Program](./images/program.png)
 
 ### 📥 Registration Page
-![Registration](./images/registration.png)
+![Registration](https://github.com/Shashikala-manohari/SmartAcademia/blob/c4f2fcd8f8b521f82829331638986c164855f929/images/registration.png)
 
 
 
