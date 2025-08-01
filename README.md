@@ -5,6 +5,7 @@
 
 ## Technologies Used
 
+- **Java** – Core programming language used for backend logic  
 - **JavaFX** – for building the graphical user interface (GUI)  
 - **JDBC** – to connect the application with the database  
 - **MySQL** – for data storage and management  
